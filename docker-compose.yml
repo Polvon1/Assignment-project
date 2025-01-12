@@ -1,0 +1,16 @@
+name: abbos
+
+networks:
+    net:
+
+services:
+  abbos_project:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: abbos_project
+    restart: always
+    networks:
+      - net
+    ports: 
+      - 9005:9000
