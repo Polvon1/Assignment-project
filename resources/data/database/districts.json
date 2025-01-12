@@ -1,0 +1,1865 @@
+[
+  {
+    "id": 3,
+    "name_uz": "Beruniy tumani",
+    "name_ru": "Берунийский район",
+    "name_en": "Beruniy district",
+    "name_cyr": "Беруний тумани",
+    "shared_id": 2309,
+    "region": 1
+  },
+  {
+    "id": 4,
+    "name_uz": "Kegeyli tumani",
+    "name_ru": "Кегейлийский район",
+    "name_en": "Kegeyli district",
+    "name_cyr": "Кегейли тумани",
+    "shared_id": 2307,
+    "region": 1
+  },
+  {
+    "id": 5,
+    "name_uz": "Qonliko'l tumani",
+    "name_ru": "Канлыкульский район",
+    "name_en": "Kanlikul district",
+    "name_cyr": "Қонликўл тумани",
+    "shared_id": 2310,
+    "region": 1
+  },
+  {
+    "id": 6,
+    "name_uz": "Qorao'zak tumani",
+    "name_ru": "Караузякский район",
+    "name_en": "Karauzak district",
+    "name_cyr": "Қораўзак тумани",
+    "shared_id": 2316,
+    "region": 1
+  },
+  {
+    "id": 8,
+    "name_uz": "Mo'ynoq tumani",
+    "name_ru": "Муйнакский район",
+    "name_en": "Muynak district",
+    "name_cyr": "Мўйноқ тумани",
+    "shared_id": 2303,
+    "region": 1
+  },
+  {
+    "id": 9,
+    "name_uz": "Nukus tumani",
+    "name_ru": "Нукусский район",
+    "name_en": "Nukus district",
+    "name_cyr": "Нукус тумани",
+    "shared_id": 2301,
+    "region": 1
+  },
+  {
+    "id": 11,
+    "name_uz": "To'rtko'l tumani",
+    "name_ru": "Турткульский район",
+    "name_en": "Turtkul district",
+    "name_cyr": "Тўрткўл тумани",
+    "shared_id": 2305,
+    "region": 1
+  },
+  {
+    "id": 12,
+    "name_uz": "Xo'jayli tumani",
+    "name_ru": "Ходжейлийский район",
+    "name_en": "Xujayli district",
+    "name_cyr": "Хўжайли тумани",
+    "shared_id": 2314,
+    "region": 1
+  },
+  {
+    "id": 13,
+    "name_uz": "Chimboy tumani",
+    "name_ru": "Чимбайский район",
+    "name_en": "Chimbay district",
+    "name_cyr": "Чимбой тумани",
+    "shared_id": 2311,
+    "region": 1
+  },
+  {
+    "id": 14,
+    "name_uz": "Shumanay tumani",
+    "name_ru": "Шуманайский район",
+    "name_en": "Shumanay district",
+    "name_cyr": "Шуманай тумани",
+    "shared_id": 2312,
+    "region": 1
+  },
+  {
+    "id": 15,
+    "name_uz": "Ellikqal'a tumani",
+    "name_ru": "Элликкалинский район",
+    "name_en": "Ellikkala district",
+    "name_cyr": "Элликқалъа тумани",
+    "shared_id": 2306,
+    "region": 1
+  },
+  {
+    "id": 16,
+    "name_uz": "Andijon shahri",
+    "name_ru": "город Андижан",
+    "name_en": "Andijan city",
+    "name_cyr": "Андижон шаҳри",
+    "shared_id": 1715,
+    "region": 2
+  },
+  {
+    "id": 17,
+    "name_uz": "Xonobod shahri",
+    "name_ru": "город Ханабад",
+    "name_en": "Khanabad city",
+    "name_cyr": "Хонобод шаҳри",
+    "shared_id": 1717,
+    "region": 2
+  },
+  {
+    "id": 18,
+    "name_uz": "Andijon tumani",
+    "name_ru": "Андижанский район",
+    "name_en": "Andijan district",
+    "name_cyr": "Андижон тумани",
+    "shared_id": 1701,
+    "region": 2
+  },
+  {
+    "id": 19,
+    "name_uz": "Asaka tumani",
+    "name_ru": "Асакинский район",
+    "name_en": "Asaka district",
+    "name_cyr": "Асака тумани",
+    "shared_id": 1703,
+    "region": 2
+  },
+  {
+    "id": 20,
+    "name_uz": "Baliqchi tumani",
+    "name_ru": "Балыкчинский  район",
+    "name_en": "Balikchi district",
+    "name_cyr": "Балиқчи тумани",
+    "shared_id": 1704,
+    "region": 2
+  },
+  {
+    "id": 21,
+    "name_uz": "Bo'z tumani",
+    "name_ru": "Бозский район",
+    "name_en": "Boz district",
+    "name_cyr": "Бўз тумани",
+    "shared_id": 1705,
+    "region": 2
+  },
+  {
+    "id": 22,
+    "name_uz": "Buloqboshi tumani",
+    "name_ru": "Булакбашинский район",
+    "name_en": "Bulakbashi district",
+    "name_cyr": "Булоқбоши тумани",
+    "shared_id": 1713,
+    "region": 2
+  },
+  {
+    "id": 23,
+    "name_uz": "Jalolquduq tumani",
+    "name_ru": "Джалакудукский район",
+    "name_en": "Jalalkuduk district",
+    "name_cyr": "Жалолқудуқ тумани",
+    "shared_id": 1709,
+    "region": 2
+  },
+  {
+    "id": 24,
+    "name_uz": "Izboskan tumani",
+    "name_ru": "Избасканский район",
+    "name_en": "Izbaskan district",
+    "name_cyr": "Избоскан тумани",
+    "shared_id": 1712,
+    "region": 2
+  },
+  {
+    "id": 25,
+    "name_uz": "Ulug'nor tumani",
+    "name_ru": "Улугнорский район",
+    "name_en": "Ulugnor district",
+    "name_cyr": "Улуғнор тумани",
+    "shared_id": 1706,
+    "region": 2
+  },
+  {
+    "id": 26,
+    "name_uz": "Marhamat tumani",
+    "name_ru": "Мархаматский район",
+    "name_en": "Marhamat district",
+    "name_cyr": "Марҳамат тумани",
+    "shared_id": 1711,
+    "region": 2
+  },
+  {
+    "id": 28,
+    "name_uz": "Paxtaobod tumani",
+    "name_ru": "Пахтаабадский район",
+    "name_en": "Pakhtaabad district",
+    "name_cyr": "Пахтаобод тумани",
+    "shared_id": 1714,
+    "region": 2
+  },
+  {
+    "id": 29,
+    "name_uz": "Xo'jaobod tumani",
+    "name_ru": "Ходжаабадский район",
+    "name_en": "Khodjaobad district",
+    "name_cyr": "Хўжаобод тумани",
+    "shared_id": 1710,
+    "region": 2
+  },
+  {
+    "id": 30,
+    "name_uz": "Shaxrixon tumani",
+    "name_ru": "Шахриханский район",
+    "name_en": "Shakhrihon district",
+    "name_cyr": "Шахрихон тумани",
+    "shared_id": 1707,
+    "region": 2
+  },
+  {
+    "id": 31,
+    "name_uz": "Qo'rg'ontepa tumani",
+    "name_ru": "Кургантепинский район",
+    "name_en": "Kurgontepa district",
+    "name_cyr": "Қўрғонтепа тумани",
+    "shared_id": 1708,
+    "region": 2
+  },
+  {
+    "id": 32,
+    "name_uz": "Buxoro shahri",
+    "name_ru": "город Бухара",
+    "name_en": "Bukhara city",
+    "name_cyr": "Бухоро шаҳри",
+    "shared_id": 2013,
+    "region": 3
+  },
+  {
+    "id": 33,
+    "name_uz": "Kogon shahri",
+    "name_ru": "город Каган",
+    "name_en": "Kagan district",
+    "name_cyr": "Когон шаҳри",
+    "shared_id": 2015,
+    "region": 3
+  },
+  {
+    "id": 34,
+    "name_uz": "Buxoro tumani",
+    "name_ru": "Бухарский район",
+    "name_en": "Bukhara district",
+    "name_cyr": "Бухоро тумани",
+    "shared_id": 2010,
+    "region": 3
+  },
+  {
+    "id": 35,
+    "name_uz": "Vobkent tumani",
+    "name_ru": "Вабкентский район",
+    "name_en": "Vabkent district",
+    "name_cyr": "Вобкент тумани",
+    "shared_id": 2002,
+    "region": 3
+  },
+  {
+    "id": 36,
+    "name_uz": "Jondor tumani",
+    "name_ru": "Жондорский район",
+    "name_en": "Jondor district",
+    "name_cyr": "Жондор тумани",
+    "shared_id": 2005,
+    "region": 3
+  },
+  {
+    "id": 37,
+    "name_uz": "Kogon tumani",
+    "name_ru": "Каганский район",
+    "name_en": "Kagan district",
+    "name_cyr": "Когон тумани",
+    "shared_id": 2011,
+    "region": 3
+  },
+  {
+    "id": 38,
+    "name_uz": "Olot tumani",
+    "name_ru": "Алатский район",
+    "name_en": "Alat district",
+    "name_cyr": "Олот тумани",
+    "shared_id": 2004,
+    "region": 3
+  },
+  {
+    "id": 39,
+    "name_uz": "Peshku tumani",
+    "name_ru": "Пешкунский район",
+    "name_en": "Peshku district",
+    "name_cyr": "Пешку тумани",
+    "shared_id": 2003,
+    "region": 3
+  },
+  {
+    "id": 40,
+    "name_uz": "Romitan tumani",
+    "name_ru": "Ромитанский район",
+    "name_en": "Romitan district",
+    "name_cyr": "Ромитан тумани",
+    "shared_id": 2001,
+    "region": 3
+  },
+  {
+    "id": 41,
+    "name_uz": "Shofirkon tumani",
+    "name_ru": "Шафирканский район",
+    "name_en": "Shafirkan district",
+    "name_cyr": "Шофиркон тумани",
+    "shared_id": 2007,
+    "region": 3
+  },
+  {
+    "id": 42,
+    "name_uz": "Qorako'l tumani",
+    "name_ru": "Каракульский район",
+    "name_en": "Karakul district",
+    "name_cyr": "Қоракўл тумани",
+    "shared_id": 2006,
+    "region": 3
+  },
+  {
+    "id": 43,
+    "name_uz": "Qorovulbozor tumani",
+    "name_ru": "Караулбазарский район",
+    "name_en": "Karaulbazar district",
+    "name_cyr": "Қоровулбозор тумани",
+    "shared_id": 2008,
+    "region": 3
+  },
+  {
+    "id": 44,
+    "name_uz": "G'ijduvon tumani",
+    "name_ru": "Гиждуванский район",
+    "name_en": "Gijduvan district",
+    "name_cyr": "Ғиждувон тумани",
+    "shared_id": 2012,
+    "region": 3
+  },
+  {
+    "id": 45,
+    "name_uz": "Jizzax shahri",
+    "name_ru": "город Джизак",
+    "name_en": "Jizzakh city",
+    "name_cyr": "Жиззах шаҳри",
+    "shared_id": 1314,
+    "region": 4
+  },
+  {
+    "id": 46,
+    "name_uz": "Arnasoy tumani",
+    "name_ru": "Арнасайский район",
+    "name_en": "Arnasay district",
+    "name_cyr": "Арнасой тумани",
+    "shared_id": 1310,
+    "region": 4
+  },
+  {
+    "id": 47,
+    "name_uz": "Baxmal tumani",
+    "name_ru": "Бахмальский район",
+    "name_en": "Bakhmal district",
+    "name_cyr": "Бахмал тумани",
+    "shared_id": 1307,
+    "region": 4
+  },
+  {
+    "id": 49,
+    "name_uz": "Jizzax tumani",
+    "name_ru": "Джизакский район",
+    "name_en": "Jizzakh district",
+    "name_cyr": "Жиззах тумани",
+    "shared_id": 1305,
+    "region": 4
+  },
+  {
+    "id": 50,
+    "name_uz": "Zarbdor tumani",
+    "name_ru": "Зарбдарский район",
+    "name_en": "Zarbdar district",
+    "name_cyr": "Зарбдор тумани",
+    "shared_id": 1301,
+    "region": 4
+  },
+  {
+    "id": 51,
+    "name_uz": "Zafarobod tumani",
+    "name_ru": "Зафарабадский район",
+    "name_en": "Zafarobod district",
+    "name_cyr": "Зафаробод тумани",
+    "shared_id": 1309,
+    "region": 4
+  },
+  {
+    "id": 52,
+    "name_uz": "Zomin tumani",
+    "name_ru": "Зааминский район",
+    "name_en": "Zaamin district",
+    "name_cyr": "Зомин тумани",
+    "shared_id": 1311,
+    "region": 4
+  },
+  {
+    "id": 53,
+    "name_uz": "Mirzacho'l tumani",
+    "name_ru": "Мирзачульский район",
+    "name_en": "Mirzachul district",
+    "name_cyr": "Мирзачўл тумани",
+    "shared_id": 1312,
+    "region": 4
+  },
+  {
+    "id": 54,
+    "name_uz": "Paxtakor tumani",
+    "name_ru": "Пахтакорский район",
+    "name_en": "Pakhtakor district",
+    "name_cyr": "Пахтакор тумани",
+    "shared_id": 1308,
+    "region": 4
+  },
+  {
+    "id": 55,
+    "name_uz": "Forish tumani",
+    "name_ru": "Фаришский район",
+    "name_en": "Forish district",
+    "name_cyr": "Фориш тумани",
+    "shared_id": 1304,
+    "region": 4
+  },
+  {
+    "id": 56,
+    "name_uz": "G'allaorol tumani",
+    "name_ru": "Галляаральский район",
+    "name_en": "Gallaorol district",
+    "name_cyr": "Ғаллаорол тумани",
+    "shared_id": 1306,
+    "region": 4
+  },
+  {
+    "id": 57,
+    "name_uz": "Yangiobod tumani",
+    "name_ru": "Янгиабадский район",
+    "name_en": "Yangiabad district",
+    "name_cyr": "Янгиобод тумани",
+    "shared_id": 1313,
+    "region": 4
+  },
+  {
+    "id": 58,
+    "name_uz": "Navoiy shahri",
+    "name_ru": "город Навои",
+    "name_en": "Navoi city",
+    "name_cyr": "Навоий шаҳри",
+    "shared_id": 2111,
+    "region": 5
+  },
+  {
+    "id": 59,
+    "name_uz": "Zarafshon shahri",
+    "name_ru": "город Зарафшан",
+    "name_en": "Zarafshan city",
+    "name_cyr": "Зарафшон шаҳри",
+    "shared_id": 2112,
+    "region": 5
+  },
+  {
+    "id": 60,
+    "name_uz": "Karmana tumani",
+    "name_ru": "Карманинский район",
+    "name_en": "Karmana district",
+    "name_cyr": "Кармана тумани",
+    "shared_id": 2110,
+    "region": 5
+  },
+  {
+    "id": 2,
+    "name_uz": "Amudaryo tumani",
+    "name_ru": "Амударьинский район",
+    "name_en": "Amudarya district",
+    "name_cyr": "Амударё тумани",
+    "shared_id": 2308,
+    "region": 1
+  },
+  {
+    "id": 64,
+    "name_uz": "Navbahor tumani",
+    "name_ru": "Навбахорский район",
+    "name_en": "Navbakhor district",
+    "name_cyr": "Навбаҳор тумани",
+    "shared_id": 2105,
+    "region": 5
+  },
+  {
+    "id": 65,
+    "name_uz": "Xatirchi tumani",
+    "name_ru": "Хатырчинский район",
+    "name_en": "Khatyrchi district",
+    "name_cyr": "Хатирчи тумани",
+    "shared_id": 2108,
+    "region": 5
+  },
+  {
+    "id": 66,
+    "name_uz": "Uchquduq tumani",
+    "name_ru": "Учкудукский район",
+    "name_en": "Uchkuduk district",
+    "name_cyr": "Учқудуқ тумани",
+    "shared_id": 2101,
+    "region": 5
+  },
+  {
+    "id": 67,
+    "name_uz": "Tomdi tumani",
+    "name_ru": "Тамдынский район",
+    "name_en": "Tomdi district",
+    "name_cyr": "Томди тумани",
+    "shared_id": 2104,
+    "region": 5
+  },
+  {
+    "id": 68,
+    "name_uz": "Namangan shahri",
+    "name_ru": "город Наманган",
+    "name_en": "Namangan city",
+    "name_cyr": "Наманган шаҳри",
+    "shared_id": 1613,
+    "region": 6
+  },
+  {
+    "id": 69,
+    "name_uz": "Kosonsoy tumani",
+    "name_ru": "Касансайский район",
+    "name_en": "Kasansay district",
+    "name_cyr": "Косонсой тумани",
+    "shared_id": 1609,
+    "region": 6
+  },
+  {
+    "id": 71,
+    "name_uz": "Namangan tumani",
+    "name_ru": "Наманганский район",
+    "name_en": "Namangan district",
+    "name_cyr": "Наманган тумани",
+    "shared_id": 1603,
+    "region": 6
+  },
+  {
+    "id": 72,
+    "name_uz": "Norin tumani",
+    "name_ru": "Нарынский район",
+    "name_en": "Naryn district",
+    "name_cyr": "Норин тумани",
+    "shared_id": 1604,
+    "region": 6
+  },
+  {
+    "id": 73,
+    "name_uz": "Pop tumani",
+    "name_ru": "Папский район",
+    "name_en": "Pap district",
+    "name_cyr": "Поп тумани",
+    "shared_id": 1611,
+    "region": 6
+  },
+  {
+    "id": 74,
+    "name_uz": "To'raqo'rg'on tumani",
+    "name_ru": "Туракурганский район",
+    "name_en": "Turakurgan district",
+    "name_cyr": "Тўрақўрғон тумани",
+    "shared_id": 1612,
+    "region": 6
+  },
+  {
+    "id": 75,
+    "name_uz": "Uychi tumani",
+    "name_ru": "Уйчинский район",
+    "name_en": "Uychi district",
+    "name_cyr": "Уйчи тумани",
+    "shared_id": 1605,
+    "region": 6
+  },
+  {
+    "id": 76,
+    "name_uz": "Uchqo'rg'on tumani",
+    "name_ru": "Учкурганский район",
+    "name_en": "Uchkurgan district",
+    "name_cyr": "Учқўрғон тумани",
+    "shared_id": 1606,
+    "region": 6
+  },
+  {
+    "id": 77,
+    "name_uz": "Chortoq tumani",
+    "name_ru": "Чартакский район",
+    "name_en": "Chartak district",
+    "name_cyr": "Чортоқ тумани",
+    "shared_id": 1607,
+    "region": 6
+  },
+  {
+    "id": 78,
+    "name_uz": "Chust tumani",
+    "name_ru": "Чустский район",
+    "name_en": "Chust district",
+    "name_cyr": "Чуст тумани",
+    "shared_id": 1610,
+    "region": 6
+  },
+  {
+    "id": 79,
+    "name_uz": "Yangiqo'rg'on tumani",
+    "name_ru": "Янгикурганский район",
+    "name_en": "Yangikurgan district",
+    "name_cyr": "Янгиқўрғон тумани",
+    "shared_id": 1608,
+    "region": 6
+  },
+  {
+    "id": 80,
+    "name_uz": "Samarqand shahri",
+    "name_ru": "город Самарканд",
+    "name_en": "Samarkand city",
+    "name_cyr": "Самарқанд шаҳри",
+    "shared_id": 1417,
+    "region": 7
+  },
+  {
+    "id": 81,
+    "name_uz": "Kattaqo'rg'on shahri",
+    "name_ru": "город Каттакурган",
+    "name_en": "Kattakurgan city",
+    "name_cyr": "Каттақўрғон шаҳри",
+    "shared_id": 1421,
+    "region": 7
+  },
+  {
+    "id": 82,
+    "name_uz": "Bulung'ur tumani",
+    "name_ru": "Булунгурский район",
+    "name_en": "Bulungur district",
+    "name_cyr": "Булунғур тумани",
+    "shared_id": 1411,
+    "region": 7
+  },
+  {
+    "id": 83,
+    "name_uz": "Jomboy tumani",
+    "name_ru": "Джамбайский район",
+    "name_en": "Jomboy district",
+    "name_cyr": "Жомбой тумани",
+    "shared_id": 1403,
+    "region": 7
+  },
+  {
+    "id": 84,
+    "name_uz": "Ishtixon tumani",
+    "name_ru": "Иштыханский район",
+    "name_en": "Ishtikhon district",
+    "name_cyr": "Иштихон тумани",
+    "shared_id": 1408,
+    "region": 7
+  },
+  {
+    "id": 85,
+    "name_uz": "Kattaqo'rg'on tumani",
+    "name_ru": "Каттакурганский район",
+    "name_en": "Kattakurgan district",
+    "name_cyr": "Каттақўрғон тумани",
+    "shared_id": 1406,
+    "region": 7
+  },
+  {
+    "id": 86,
+    "name_uz": "Narpay tumani",
+    "name_ru": "Нарпайский район",
+    "name_en": "Narpay district",
+    "name_cyr": "Нарпай тумани",
+    "shared_id": 1401,
+    "region": 7
+  },
+  {
+    "id": 87,
+    "name_uz": "Nurobod tumani",
+    "name_ru": "Нурабадский район",
+    "name_en": "Nurobod district",
+    "name_cyr": "Нуробод тумани",
+    "shared_id": 1402,
+    "region": 7
+  },
+  {
+    "id": 88,
+    "name_uz": "Oqdaryo tumani",
+    "name_ru": "Акдарьинский район",
+    "name_en": "Oqdarya district",
+    "name_cyr": "Оқдарё тумани",
+    "shared_id": 1407,
+    "region": 7
+  },
+  {
+    "id": 90,
+    "name_uz": "Pastdarg'om tumani",
+    "name_ru": "Пастдаргомский район",
+    "name_en": "Pastdargom district",
+    "name_cyr": "Пастдарғом тумани",
+    "shared_id": 1409,
+    "region": 7
+  },
+  {
+    "id": 91,
+    "name_uz": "Paxtachi tumani",
+    "name_ru": "Пахтачийский район",
+    "name_en": "Pakhtachi district",
+    "name_cyr": "Пахтачи тумани",
+    "shared_id": 1405,
+    "region": 7
+  },
+  {
+    "id": 92,
+    "name_uz": "Samarqand tumani",
+    "name_ru": "Самаркандский район",
+    "name_en": "Samarkand district",
+    "name_cyr": "Самарқанд тумани",
+    "shared_id": 1413,
+    "region": 7
+  },
+  {
+    "id": 93,
+    "name_uz": "Tayloq tumani",
+    "name_ru": "Тайлакский район",
+    "name_en": "Taylak district",
+    "name_cyr": "Тайлоқ тумани",
+    "shared_id": 1410,
+    "region": 7
+  },
+  {
+    "id": 94,
+    "name_uz": "Urgut tumani",
+    "name_ru": "Ургутский район",
+    "name_en": "Urgut district",
+    "name_cyr": "Ургут тумани",
+    "shared_id": 1422,
+    "region": 7
+  },
+  {
+    "id": 95,
+    "name_uz": "Qo'shrabot tumani",
+    "name_ru": "Кошрабадский район",
+    "name_en": "Koshrabot district",
+    "name_cyr": "Қўшработ тумани",
+    "shared_id": 1414,
+    "region": 7
+  },
+  {
+    "id": 96,
+    "name_uz": "Guliston shahri",
+    "name_ru": "город Гулистан",
+    "name_en": "Gulistan city",
+    "name_cyr": "Гулистон шаҳри",
+    "shared_id": 1210,
+    "region": 8
+  },
+  {
+    "id": 97,
+    "name_uz": "Yangiyer shahri",
+    "name_ru": "город Янгиер",
+    "name_en": "Yangiyer city",
+    "name_cyr": "Янгиер шаҳри",
+    "shared_id": 1213,
+    "region": 8
+  },
+  {
+    "id": 98,
+    "name_uz": "Shirin shahri",
+    "name_ru": "город Ширин",
+    "name_en": "Shirin city",
+    "name_cyr": "Ширин шаҳри",
+    "shared_id": 1212,
+    "region": 8
+  },
+  {
+    "id": 99,
+    "name_uz": "Boyovut tumani",
+    "name_ru": "Баяутский район",
+    "name_en": "Bayaut district",
+    "name_cyr": "Боёвут тумани",
+    "shared_id": 1203,
+    "region": 8
+  },
+  {
+    "id": 100,
+    "name_uz": "Guliston tumani",
+    "name_ru": "Гулистанский район",
+    "name_en": "Gulistan district",
+    "name_cyr": "Гулистон тумани",
+    "shared_id": 1202,
+    "region": 8
+  },
+  {
+    "id": 101,
+    "name_uz": "Mirzaobod tumani",
+    "name_ru": "Мирзаабадский район",
+    "name_en": "Mirzaabad district",
+    "name_cyr": "Мирзаобод тумани",
+    "shared_id": 1206,
+    "region": 8
+  },
+  {
+    "id": 102,
+    "name_uz": "Oqoltin tumani",
+    "name_ru": "Акалтынский район",
+    "name_en": "Akaltyn district",
+    "name_cyr": "Оқолтин тумани",
+    "shared_id": 1207,
+    "region": 8
+  },
+  {
+    "id": 103,
+    "name_uz": "Sardoba tumani",
+    "name_ru": "Сардобский район",
+    "name_en": "Sardoba district",
+    "name_cyr": "Сардоба тумани",
+    "shared_id": 1215,
+    "region": 8
+  },
+  {
+    "id": 104,
+    "name_uz": "Sayxunobod tumani",
+    "name_ru": "Сайхунабадский район",
+    "name_en": "Saikhunabad district",
+    "name_cyr": "Сайхунобод тумани",
+    "shared_id": 1201,
+    "region": 8
+  },
+  {
+    "id": 105,
+    "name_uz": "Sirdaryo tumani",
+    "name_ru": "Сырдарьинский район",
+    "name_en": "Sirdarya district",
+    "name_cyr": "Сирдарё тумани",
+    "shared_id": 1209,
+    "region": 8
+  },
+  {
+    "id": 106,
+    "name_uz": "Xovos tumani",
+    "name_ru": "Хавастский район",
+    "name_en": "Khavast district",
+    "name_cyr": "Ховос тумани",
+    "shared_id": 1205,
+    "region": 8
+  },
+  {
+    "id": 107,
+    "name_uz": "Termiz shahri",
+    "name_ru": "город Термиз",
+    "name_en": "Termiz city",
+    "name_cyr": "Термиз шаҳри",
+    "shared_id": 1916,
+    "region": 9
+  },
+  {
+    "id": 108,
+    "name_uz": "Angor tumani",
+    "name_ru": "Ангорский район",
+    "name_en": "Angor district",
+    "name_cyr": "Ангор тумани",
+    "shared_id": 1911,
+    "region": 9
+  },
+  {
+    "id": 109,
+    "name_uz": "Boysun tumani",
+    "name_ru": "Байсунский  район",
+    "name_en": "Boysun district",
+    "name_cyr": "Бойсун тумани",
+    "shared_id": 1902,
+    "region": 9
+  },
+  {
+    "id": 110,
+    "name_uz": "Denov tumani",
+    "name_ru": "Денауский район",
+    "name_en": "Denov district",
+    "name_cyr": "Денов тумани",
+    "shared_id": 1914,
+    "region": 9
+  },
+  {
+    "id": 112,
+    "name_uz": "Qiziriq tumani",
+    "name_ru": "Кизирикский район",
+    "name_en": "Kizirik district",
+    "name_cyr": "Қизириқ тумани",
+    "shared_id": 1910,
+    "region": 9
+  },
+  {
+    "id": 113,
+    "name_uz": "Qumqo'rg'on tumani",
+    "name_ru": "Кумкурганский район",
+    "name_en": "Kumkurghon district",
+    "name_cyr": "Қумқўрғон тумани",
+    "shared_id": 1908,
+    "region": 9
+  },
+  {
+    "id": 114,
+    "name_uz": "Muzrabot tumani",
+    "name_ru": "Музрабадский район",
+    "name_en": "Muzrabot district",
+    "name_cyr": "Музработ тумани",
+    "shared_id": 1903,
+    "region": 9
+  },
+  {
+    "id": 115,
+    "name_uz": "Oltinsoy tumani",
+    "name_ru": "Алтынсайский район",
+    "name_en": "Altinsoy district",
+    "name_cyr": "Олтинсой тумани",
+    "shared_id": 1907,
+    "region": 9
+  },
+  {
+    "id": 116,
+    "name_uz": "Sariosiyo tumani",
+    "name_ru": "Сариасийский район",
+    "name_en": "Sariosiyo district",
+    "name_cyr": "Сариосиё тумани",
+    "shared_id": 1904,
+    "region": 9
+  },
+  {
+    "id": 117,
+    "name_uz": "Termiz tumani",
+    "name_ru": "Термезский район",
+    "name_en": "Termiz district",
+    "name_cyr": "Термиз тумани",
+    "shared_id": 1901,
+    "region": 9
+  },
+  {
+    "id": 118,
+    "name_uz": "Uzun tumani",
+    "name_ru": "Узунский район",
+    "name_en": "Uzun district",
+    "name_cyr": "Узун тумани",
+    "shared_id": 1913,
+    "region": 9
+  },
+  {
+    "id": 119,
+    "name_uz": "Sherobod tumani",
+    "name_ru": "Шерабадский район",
+    "name_en": "Sherabad district",
+    "name_cyr": "Шеробод тумани",
+    "shared_id": 1912,
+    "region": 9
+  },
+  {
+    "id": 120,
+    "name_uz": "Sho'rchi tumani",
+    "name_ru": "Шурчинский район",
+    "name_en": "Shurchi district",
+    "name_cyr": "Шўрчи тумани",
+    "shared_id": 1906,
+    "region": 9
+  },
+  {
+    "id": 10,
+    "name_uz": "Taxtako'pir tumani",
+    "name_ru": "Тахтакупырский район",
+    "name_en": "Taxtakupir district",
+    "name_cyr": "Тахтакўпир тумани",
+    "shared_id": 2313,
+    "region": 1
+  },
+  {
+    "id": 63,
+    "name_uz": "Nurota tumani",
+    "name_ru": "Нуратинский район",
+    "name_en": "Nurata district",
+    "name_cyr": "Нурота тумани",
+    "shared_id": 2107,
+    "region": 5
+  },
+  {
+    "id": 124,
+    "name_uz": "Chirchiq shahri",
+    "name_ru": "город Чирчик",
+    "name_en": "Chirchik city",
+    "name_cyr": "Чирчиқ шаҳри",
+    "shared_id": 1120,
+    "region": 10
+  },
+  {
+    "id": 125,
+    "name_uz": "Bekobod tumani",
+    "name_ru": "Бекабадский район",
+    "name_en": "Bekabad district",
+    "name_cyr": "Бекобод тумани",
+    "shared_id": 1111,
+    "region": 10
+  },
+  {
+    "id": 126,
+    "name_uz": "Bo'ka tumani",
+    "name_ru": "Букинский район ",
+    "name_en": "Buka district",
+    "name_cyr": "Бўка тумани",
+    "shared_id": 1113,
+    "region": 10
+  },
+  {
+    "id": 127,
+    "name_uz": "Bo'stonliq tumani",
+    "name_ru": "Бостанлыкский район",
+    "name_en": "Bostanlik district",
+    "name_cyr": "Бўстонлиқ тумани",
+    "shared_id": 1112,
+    "region": 10
+  },
+  {
+    "id": 128,
+    "name_uz": "Qibray tumani",
+    "name_ru": "Кибрайский район",
+    "name_en": "Kibray district",
+    "name_cyr": "Қибрай тумани",
+    "shared_id": 1108,
+    "region": 10
+  },
+  {
+    "id": 130,
+    "name_uz": "Oqqo'rg'on tumani",
+    "name_ru": "Аккурганский район",
+    "name_en": "Akkurgan district",
+    "name_cyr": "Оққўрғон тумани",
+    "shared_id": 1106,
+    "region": 10
+  },
+  {
+    "id": 131,
+    "name_uz": "Ohangaron tumani",
+    "name_ru": "Ахангаранский район",
+    "name_en": "Akhangaron district",
+    "name_cyr": "Оҳангарон тумани",
+    "shared_id": 1110,
+    "region": 10
+  },
+  {
+    "id": 132,
+    "name_uz": "Parkent tumani",
+    "name_ru": "Паркентский район",
+    "name_en": "Parkent district",
+    "name_cyr": "Паркент тумани",
+    "shared_id": 1104,
+    "region": 10
+  },
+  {
+    "id": 133,
+    "name_uz": "Piskent tumani",
+    "name_ru": "Пскентский район",
+    "name_en": "Piskent district",
+    "name_cyr": "Пискент тумани",
+    "shared_id": 1103,
+    "region": 10
+  },
+  {
+    "id": 134,
+    "name_uz": "Zangiota tumani",
+    "name_ru": "Зангиатинский район",
+    "name_en": "Zangiata district",
+    "name_cyr": "Зангиота тумани",
+    "shared_id": 1102,
+    "region": 10
+  },
+  {
+    "id": 135,
+    "name_uz": "O'rta Chirchiq tumani",
+    "name_ru": "Уртачирчикский район",
+    "name_en": "Orta Chirchik district",
+    "name_cyr": "Ўрта Чирчиқ тумани",
+    "shared_id": 1105,
+    "region": 10
+  },
+  {
+    "id": 136,
+    "name_uz": "Chinoz tumani",
+    "name_ru": "Чиназский район",
+    "name_en": "Chinaz district",
+    "name_cyr": "Чиноз тумани",
+    "shared_id": 1115,
+    "region": 10
+  },
+  {
+    "id": 137,
+    "name_uz": "Yuqori Chirchiq tumani",
+    "name_ru": "Юкоричирчикский район",
+    "name_en": "Yukori Chirchik district",
+    "name_cyr": "Юқори Чирчиқ тумани",
+    "shared_id": 1114,
+    "region": 10
+  },
+  {
+    "id": 138,
+    "name_uz": "Yangiyo'l tumani",
+    "name_ru": "Янгиюльский район",
+    "name_en": "Yangiyol district",
+    "name_cyr": "Янгийўл тумани",
+    "shared_id": 1101,
+    "region": 10
+  },
+  {
+    "id": 139,
+    "name_uz": "Farg'ona shahri",
+    "name_ru": "город Фергана",
+    "name_en": "Fergana city",
+    "name_cyr": "Фарғона шаҳри",
+    "shared_id": 1521,
+    "region": 11
+  },
+  {
+    "id": 140,
+    "name_uz": "Marg'ilon shahri",
+    "name_ru": "город Маргилан",
+    "name_en": "Margilan city",
+    "name_cyr": "Марғилон шаҳри",
+    "shared_id": 1520,
+    "region": 11
+  },
+  {
+    "id": 141,
+    "name_uz": "Quvasoy shahri",
+    "name_ru": "город Кувасай",
+    "name_en": "Kuvasoy city",
+    "name_cyr": "Қувасой шаҳри",
+    "shared_id": 1517,
+    "region": 11
+  },
+  {
+    "id": 142,
+    "name_uz": "Qo'qon shahri",
+    "name_ru": "город Коканд",
+    "name_en": "Kokand city",
+    "name_cyr": "Қўқон шаҳри",
+    "shared_id": 1519,
+    "region": 11
+  },
+  {
+    "id": 143,
+    "name_uz": "Beshariq tumani",
+    "name_ru": "Бешарыкский район",
+    "name_en": "Besharik district",
+    "name_cyr": "Бешариқ тумани",
+    "shared_id": 1515,
+    "region": 11
+  },
+  {
+    "id": 144,
+    "name_uz": "Buvayda tumani",
+    "name_ru": "Бувайдинский район",
+    "name_en": "Buvayda district",
+    "name_cyr": "Бувайда тумани",
+    "shared_id": 1509,
+    "region": 11
+  },
+  {
+    "id": 145,
+    "name_uz": "Bog'dod tumani",
+    "name_ru": "Багдадский район",
+    "name_en": "Baghdad district",
+    "name_cyr": "Боғдод тумани",
+    "shared_id": 1508,
+    "region": 11
+  },
+  {
+    "id": 146,
+    "name_uz": "Dang'ara tumani",
+    "name_ru": "Дангаринский район",
+    "name_en": "Dangara district",
+    "name_cyr": "Данғара тумани",
+    "shared_id": 1512,
+    "region": 11
+  },
+  {
+    "id": 147,
+    "name_uz": "Yozyovon tumani",
+    "name_ru": "Язъяванский район",
+    "name_en": "Yozyovon district",
+    "name_cyr": "Ёзёвон тумани",
+    "shared_id": 1506,
+    "region": 11
+  },
+  {
+    "id": 148,
+    "name_uz": "Quva tumani",
+    "name_ru": "Кувинский район",
+    "name_en": "Kuva district",
+    "name_cyr": "Қува тумани",
+    "shared_id": 1503,
+    "region": 11
+  },
+  {
+    "id": 149,
+    "name_uz": "Oltiariq tumani",
+    "name_ru": "Алтыарыкский район",
+    "name_en": "Altyarik district",
+    "name_cyr": "Олтиариқ тумани",
+    "shared_id": 1507,
+    "region": 11
+  },
+  {
+    "id": 150,
+    "name_uz": "Qo'shtepa tumani",
+    "name_ru": "Куштепинский район",
+    "name_en": "Koshtepa district",
+    "name_cyr": "Қўштепа тумани",
+    "shared_id": 2434,
+    "region": 11
+  },
+  {
+    "id": 151,
+    "name_uz": "Rishton tumani",
+    "name_ru": "Риштанский район",
+    "name_en": "Rishton district",
+    "name_cyr": "Риштон тумани",
+    "shared_id": 1511,
+    "region": 11
+  },
+  {
+    "id": 152,
+    "name_uz": "So'x tumani",
+    "name_ru": "Сохский район",
+    "name_en": "Sokh district",
+    "name_cyr": "Сўх тумани",
+    "shared_id": 1516,
+    "region": 11
+  },
+  {
+    "id": 153,
+    "name_uz": "Toshloq tumani",
+    "name_ru": "Ташлакский район",
+    "name_en": "Tashlak district",
+    "name_cyr": "Тошлоқ тумани",
+    "shared_id": 1504,
+    "region": 11
+  },
+  {
+    "id": 155,
+    "name_uz": "O'zbekiston tumani",
+    "name_ru": "Узбекистанский район",
+    "name_en": "Uzbekistan district",
+    "name_cyr": "Ўзбекистон тумани",
+    "shared_id": 1514,
+    "region": 11
+  },
+  {
+    "id": 156,
+    "name_uz": "Furqat tumani",
+    "name_ru": "Фуркатский район",
+    "name_en": "Furkat district",
+    "name_cyr": "Фурқат тумани",
+    "shared_id": 1513,
+    "region": 11
+  },
+  {
+    "id": 157,
+    "name_uz": "Farg'ona tumani",
+    "name_ru": "Ферганский район",
+    "name_en": "Fergana district",
+    "name_cyr": "Фарғона тумани",
+    "shared_id": 1502,
+    "region": 11
+  },
+  {
+    "id": 158,
+    "name_uz": "Urganch shahri",
+    "name_ru": "город Ургенч",
+    "name_en": "Urganch city",
+    "name_cyr": "Урганч шаҳри",
+    "shared_id": 2211,
+    "region": 12
+  },
+  {
+    "id": 159,
+    "name_uz": "Bog'ot tumani",
+    "name_ru": "Багатский район",
+    "name_en": "Bagat district",
+    "name_cyr": "Боғот тумани",
+    "shared_id": 2207,
+    "region": 12
+  },
+  {
+    "id": 160,
+    "name_uz": "Gurlan tumani",
+    "name_ru": "Гурленский район",
+    "name_en": "Gurlen district",
+    "name_cyr": "Гурлан тумани",
+    "shared_id": 2203,
+    "region": 12
+  },
+  {
+    "id": 161,
+    "name_uz": "Qo'shko'pir tumani",
+    "name_ru": "Кошкупырский район",
+    "name_en": "Koshkopir district",
+    "name_cyr": "Қўшкўпир тумани",
+    "shared_id": 2209,
+    "region": 12
+  },
+  {
+    "id": 162,
+    "name_uz": "Urganch tumani",
+    "name_ru": "Ургенчский район",
+    "name_en": "Urganch district",
+    "name_cyr": "Урганч тумани",
+    "shared_id": 2204,
+    "region": 12
+  },
+  {
+    "id": 163,
+    "name_uz": "Xazorasp tumani",
+    "name_ru": "Хазараспский район ",
+    "name_en": "Hazorasp district",
+    "name_cyr": "Хазорасп тумани",
+    "shared_id": 2201,
+    "region": 12
+  },
+  {
+    "id": 164,
+    "name_uz": "Xonqa tumani",
+    "name_ru": "Ханкинский район",
+    "name_en": "Khonqa district",
+    "name_cyr": "Хонқа тумани",
+    "shared_id": 2206,
+    "region": 12
+  },
+  {
+    "id": 165,
+    "name_uz": "Xiva tumani",
+    "name_ru": "Хивинский район",
+    "name_en": "Khiva district",
+    "name_cyr": "Хива тумани",
+    "shared_id": 2210,
+    "region": 12
+  },
+  {
+    "id": 166,
+    "name_uz": "Xiva shahri",
+    "name_ru": "город Хивa",
+    "name_en": "Khiva city",
+    "name_cyr": "Хива шаҳри",
+    "shared_id": 2212,
+    "region": 12
+  },
+  {
+    "id": 167,
+    "name_uz": "Shovot tumani",
+    "name_ru": "Шаватский район",
+    "name_en": "Shovot district",
+    "name_cyr": "Шовот тумани",
+    "shared_id": 2205,
+    "region": 12
+  },
+  {
+    "id": 168,
+    "name_uz": "Yangiariq tumani",
+    "name_ru": "Янгиарыкский район",
+    "name_en": "Yangiarik district",
+    "name_cyr": "Янгиариқ тумани",
+    "shared_id": 2202,
+    "region": 12
+  },
+  {
+    "id": 169,
+    "name_uz": "Yangibozor tumani",
+    "name_ru": "Янгибазарский район",
+    "name_en": "Yangibozor district",
+    "name_cyr": "Янгибозор тумани",
+    "shared_id": 2208,
+    "region": 12
+  },
+  {
+    "id": 170,
+    "name_uz": "Qarshi shahri ",
+    "name_ru": "город Карши",
+    "name_en": "Karshi city",
+    "name_cyr": "Қарши шаҳри",
+    "shared_id": 1815,
+    "region": 13
+  },
+  {
+    "id": 171,
+    "name_uz": "G'uzor tumani",
+    "name_ru": "Гузарский район",
+    "name_en": "Guzar district",
+    "name_cyr": "Ғузор тумани",
+    "shared_id": 1808,
+    "region": 13
+  },
+  {
+    "id": 172,
+    "name_uz": "Dehqonobod tumani",
+    "name_ru": "Дехканабадский район",
+    "name_en": "Dehkanabad district",
+    "name_cyr": "Деҳқонобод тумани",
+    "shared_id": 1804,
+    "region": 13
+  },
+  {
+    "id": 173,
+    "name_uz": "Qamashi tumani",
+    "name_ru": "Камашинский район",
+    "name_en": "Kamashi district",
+    "name_cyr": "Қамаши тумани",
+    "shared_id": 1805,
+    "region": 13
+  },
+  {
+    "id": 174,
+    "name_uz": "Qarshi tumani",
+    "name_ru": "Каршинский район",
+    "name_en": "Karshi district",
+    "name_cyr": "Қарши тумани",
+    "shared_id": 1809,
+    "region": 13
+  },
+  {
+    "id": 175,
+    "name_uz": "Kasbi tumani",
+    "name_ru": "Касбийский район",
+    "name_en": "Kasby district",
+    "name_cyr": "Касби тумани",
+    "shared_id": 1812,
+    "region": 13
+  },
+  {
+    "id": 176,
+    "name_uz": "Kitob tumani",
+    "name_ru": "Китабский район",
+    "name_en": "Kitob district",
+    "name_cyr": "Китоб тумани",
+    "shared_id": 1811,
+    "region": 13
+  },
+  {
+    "id": 177,
+    "name_uz": "Koson tumani",
+    "name_ru": "Касанский район",
+    "name_en": "Koson district",
+    "name_cyr": "Косон тумани",
+    "shared_id": 1802,
+    "region": 13
+  },
+  {
+    "id": 179,
+    "name_uz": "Muborak tumani",
+    "name_ru": "Мубарекский район",
+    "name_en": "Muborak district",
+    "name_cyr": "Муборак тумани",
+    "shared_id": 1813,
+    "region": 13
+  },
+  {
+    "id": 180,
+    "name_uz": "Nishon tumani",
+    "name_ru": "Нишанский район",
+    "name_en": "Nishon district",
+    "name_cyr": "Нишон тумани",
+    "shared_id": 1810,
+    "region": 13
+  },
+  {
+    "id": 181,
+    "name_uz": "Chiroqchi tumani",
+    "name_ru": "Чиракчинский район",
+    "name_en": "Chirakchi district",
+    "name_cyr": "Чироқчи тумани",
+    "shared_id": 1801,
+    "region": 13
+  },
+  {
+    "id": 62,
+    "name_uz": "Konimex tumani",
+    "name_ru": "Канимехский район",
+    "name_en": "Kanimekh district",
+    "name_cyr": "Конимех тумани",
+    "shared_id": 2102,
+    "region": 5
+  },
+  {
+    "id": 123,
+    "name_uz": "Olmaliq shahri",
+    "name_ru": "город Алмалык",
+    "name_en": "Almalyk city",
+    "name_cyr": "Олмалиқ шаҳри",
+    "shared_id": 1118,
+    "region": 10
+  },
+  {
+    "id": 202,
+    "name_uz": "Buzatov tumani",
+    "name_ru": "Бузатовский район",
+    "name_en": "Buzatov district",
+    "name_cyr": "Бузатов тумани",
+    "shared_id": 2315,
+    "region": 1
+  },
+  {
+    "id": 198,
+    "name_uz": "Nurafshon shahar",
+    "name_ru": "город Нурафшан",
+    "name_en": "Nurafshon city",
+    "name_cyr": "Нурофшон шахар",
+    "shared_id": 739001120,
+    "region": 10
+  },
+  {
+    "id": 122,
+    "name_uz": "Bekobod shahri",
+    "name_ru": "город Бекабад",
+    "name_en": "Bekabad city",
+    "name_cyr": "Бекобод шаҳри",
+    "shared_id": 1117,
+    "region": 10
+  },
+  {
+    "id": 200,
+    "name_uz": "Ohangaron shahar",
+    "name_ru": "город Ахангаран",
+    "name_en": "Ohangaron city",
+    "name_cyr": "Охонгарон шахар",
+    "shared_id": 739001121,
+    "region": 10
+  },
+  {
+    "id": 201,
+    "name_uz": "Toshkent tumani",
+    "name_ru": "город Ташкент",
+    "name_en": "Toshkent district",
+    "name_cyr": "Тошкент тумани",
+    "shared_id": 1109,
+    "region": 10
+  },
+  {
+    "id": 129,
+    "name_uz": "Quyi Chirchiq tumani",
+    "name_ru": "Куйичирчикский район",
+    "name_en": "Quyi Chirchik district",
+    "name_cyr": "Қуйи Чирчиқ тумани",
+    "shared_id": 1107,
+    "region": 10
+  },
+  {
+    "id": 199,
+    "name_uz": "Yangiyo'l Shahar",
+    "name_ru": "город Янгийул",
+    "name_en": "Yangiyul city",
+    "name_cyr": "Янгийу́л шахар",
+    "shared_id": 1122,
+    "region": 10
+  },
+  {
+    "id": 154,
+    "name_uz": "Uchko'prik tumani",
+    "name_ru": "Учкуприкский район",
+    "name_en": "Uchkuprik district",
+    "name_cyr": "Учкўприк тумани",
+    "shared_id": 1510,
+    "region": 11
+  },
+  {
+    "id": 237,
+    "name_uz": "Tuproqqal’a tumani",
+    "name_ru": "Тупраккалинский район",
+    "name_en": "Tuproqqala district",
+    "name_cyr": "Тупроққалъа тумани",
+    "shared_id": 739001141,
+    "region": 12
+  },
+  {
+    "id": 178,
+    "name_uz": "Mirishkor tumani",
+    "name_ru": "Миришкорский район",
+    "name_en": "Myrishkor district",
+    "name_cyr": "Миришкор тумани",
+    "shared_id": 1814,
+    "region": 13
+  },
+  {
+    "id": 185,
+    "name_uz": "Mirobod tumani",
+    "name_ru": "Мирабадский район",
+    "name_en": "Mirabad district",
+    "name_cyr": "Миробод тумани",
+    "shared_id": 1009,
+    "region": 14
+  },
+  {
+    "id": 186,
+    "name_uz": "Mirzo-Ulug'bek tumani",
+    "name_ru": "Мирзо-Улугбекский район",
+    "name_en": "Mirzo-Ulugbek district",
+    "name_cyr": "Мирзо-Улуғбек тумани",
+    "shared_id": 1003,
+    "region": 14
+  },
+  {
+    "id": 187,
+    "name_uz": "Sergeli tumani",
+    "name_ru": "Сергелийский район",
+    "name_en": "Sergeli district",
+    "name_cyr": "Сергели тумани",
+    "shared_id": 1008,
+    "region": 14
+  },
+  {
+    "id": 188,
+    "name_uz": "Olmazor tumani",
+    "name_ru": "Алмазарский район",
+    "name_en": "Olmazar district",
+    "name_cyr": "Олмазор тумани",
+    "shared_id": 1012,
+    "region": 14
+  },
+  {
+    "id": 189,
+    "name_uz": "Uchtepa tumani",
+    "name_ru": "Учтепинский район",
+    "name_en": "Uchtepa district",
+    "name_cyr": "Учтепа тумани",
+    "shared_id": 1001,
+    "region": 14
+  },
+  {
+    "id": 190,
+    "name_uz": "Shayxontohur tumani",
+    "name_ru": "Шайхантахурский район",
+    "name_en": "Shaykhontohur district",
+    "name_cyr": "Шайхонтоҳур тумани",
+    "shared_id": 1006,
+    "region": 14
+  },
+  {
+    "id": 191,
+    "name_uz": "Yashnobod tumani",
+    "name_ru": "Яшнободский район",
+    "name_en": "Yashnobod district",
+    "name_cyr": "Яшнобод тумани",
+    "shared_id": 739001080,
+    "region": 14
+  },
+  {
+    "id": 1,
+    "name_uz": "Nukus shahri",
+    "name_ru": "город Нукус",
+    "name_en": "Nukus city",
+    "name_cyr": "Нукус шаҳри",
+    "shared_id": 2317,
+    "region": 1
+  },
+  {
+    "id": 7,
+    "name_uz": "Qo'ng'irot tumani",
+    "name_ru": "Кунградский район",
+    "name_en": "Kungirat district",
+    "name_cyr": "Қўнғирот тумани",
+    "shared_id": 2302,
+    "region": 1
+  },
+  {
+    "id": 195,
+    "name_uz": "Taxiatosh tumani",
+    "name_ru": "Тахиаташский район",
+    "name_en": "Takhiatash district",
+    "name_cyr": "Тахиатош тумани",
+    "shared_id": 2320,
+    "region": 1
+  },
+  {
+    "id": 27,
+    "name_uz": "Oltinko'l tumani",
+    "name_ru": "Алтынкульский район",
+    "name_en": "Oltinkol district",
+    "name_cyr": "Олтинкўл тумани",
+    "shared_id": 1702,
+    "region": 2
+  },
+  {
+    "id": 48,
+    "name_uz": "Do'stlik tumani",
+    "name_ru": "Дустликский район",
+    "name_en": "Dustlik district",
+    "name_cyr": "Дўстлик тумани",
+    "shared_id": 1302,
+    "region": 4
+  },
+  {
+    "id": 197,
+    "name_uz": "G'ozg'on shahri",
+    "name_ru": "город Газган",
+    "name_en": "Gazgan city",
+    "name_cyr": "Ғозғон шаҳри",
+    "shared_id": 739001180,
+    "region": 5
+  },
+  {
+    "id": 61,
+    "name_uz": "Qiziltepa tumani",
+    "name_ru": "Кызылтепинский район",
+    "name_en": "Kyzyltepa district",
+    "name_cyr": "Қизилтепа тумани",
+    "shared_id": 2109,
+    "region": 5
+  },
+  {
+    "id": 235,
+    "name_uz": "Davlatobod tumani",
+    "name_ru": "Давлатабадский район",
+    "name_en": "Davlatobod district",
+    "name_cyr": "Давлатобод тумани",
+    "shared_id": 1601,
+    "region": 6
+  },
+  {
+    "id": 70,
+    "name_uz": "Mingbuloq tumani",
+    "name_ru": "Мингбулакский район",
+    "name_en": "Mingbulak district",
+    "name_cyr": "Мингбулоқ тумани",
+    "shared_id": 1602,
+    "region": 6
+  },
+  {
+    "id": 89,
+    "name_uz": "Payariq tumani",
+    "name_ru": "Пайарыкский район",
+    "name_en": "Payariq district",
+    "name_cyr": "Паяриқ тумани",
+    "shared_id": 1415,
+    "region": 7
+  },
+  {
+    "id": 236,
+    "name_uz": "Bandixon tumani",
+    "name_ru": "Бандиханский район",
+    "name_en": "Bandikhon district",
+    "name_cyr": "Бандихон тумани",
+    "shared_id": 1915,
+    "region": 9
+  },
+  {
+    "id": 111,
+    "name_uz": "Jarqo'rg'on tumani",
+    "name_ru": "Джаркурганский район",
+    "name_en": "Jarkurghon district",
+    "name_cyr": "Жарқўрғон тумани",
+    "shared_id": 1909,
+    "region": 9
+  },
+  {
+    "id": 121,
+    "name_uz": "Angren shahri",
+    "name_ru": "город Ангрен",
+    "name_en": "Angren city",
+    "name_cyr": "Ангрен шаҳри",
+    "shared_id": 1116,
+    "region": 10
+  },
+  {
+    "id": 182,
+    "name_uz": "Shahrisabz tumani",
+    "name_ru": "Шахрисабзский район",
+    "name_en": "Shakhrisabz district",
+    "name_cyr": "Шаҳрисабз тумани",
+    "shared_id": 1803,
+    "region": 13
+  },
+  {
+    "id": 196,
+    "name_uz": "Shahrisabz shahri",
+    "name_ru": "город Шахрисабз",
+    "name_en": "Shakhrisabz city",
+    "name_cyr": "Шаҳрисабз шаҳри",
+    "shared_id": 1816,
+    "region": 13
+  },
+  {
+    "id": 183,
+    "name_uz": "Yakkabog' tumani",
+    "name_ru": "Яккабагский район",
+    "name_en": "Yakkabog district",
+    "name_cyr": "Яккабоғ тумани",
+    "shared_id": 1806,
+    "region": 13
+  },
+  {
+    "id": 184,
+    "name_uz": "Bektemir tumani",
+    "name_ru": "Бектемирский район",
+    "name_en": "Bektemir district",
+    "name_cyr": "Бектемир тумани",
+    "shared_id": 1011,
+    "region": 14
+  },
+  {
+    "id": 192,
+    "name_uz": "Chilonzor tumani",
+    "name_ru": "Чиланзарский район",
+    "name_en": "Chilanzar district",
+    "name_cyr": "Чилонзор тумани",
+    "shared_id": 1007,
+    "region": 14
+  },
+  {
+    "id": 193,
+    "name_uz": "Yunusobod tumani",
+    "name_ru": "Юнусабадский район",
+    "name_en": "Yunusabad district",
+    "name_cyr": "Юнусобод тумани",
+    "shared_id": 1010,
+    "region": 14
+  },
+  {
+    "id": 194,
+    "name_uz": "Yakkasaroy tumani",
+    "name_ru": "Яккасарайский район",
+    "name_en": "Yakkasaray district",
+    "name_cyr": "Яккасарой тумани",
+    "shared_id": 1005,
+    "region": 14
+  },
+  {
+    "id": 238,
+    "name_uz": "Yangihayot tumani",
+    "name_ru": "Янгихаятский район",
+    "name_en": "Yangihayot district",
+    "name_cyr": "Янгиҳаёт тумани",
+    "shared_id": 739001160,
+    "region": 14
+  },
+  {
+    "id": 239,
+    "name_uz": "Yangi Namangan tumani",
+    "name_ru": "Район Новый Наманган",
+    "name_en": "Yangi Namangan district",
+    "name_cyr": "Янги Наманган тумани",
+    "shared_id": null,
+    "region": 6
+  }
+]

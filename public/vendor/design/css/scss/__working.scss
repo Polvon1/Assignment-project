@@ -1,0 +1,31 @@
+.working {
+    padding: 72px 0;
+    &__card {
+        margin-bottom: 25px;
+        &_icon {
+            width: 64px;
+            height: 64px;
+            border-radius: 16px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 32px;
+        }
+        &_title {
+            font-style: normal;
+            font-weight: 600;
+            font-size: 18px;
+            line-height: 24px;
+            color: #27256b;
+            margin-bottom: 8px;
+            padding-right: 120px;
+        }
+        &_desc {
+            font-style: normal;
+            font-weight: 400;
+            font-size: 14px;
+            line-height: 22px;
+            color: #7e808c;
+        }
+    }
+}

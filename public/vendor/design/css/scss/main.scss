@@ -1,0 +1,144 @@
+/* USER VARIABLES SECTION */
+
+:root {
+    --accent: orange;
+    --fontsize: 16px;
+    --textcolor: #333;
+    --lineheight: 1.65;
+    --userfont: "Inter", sans-serif;
+    --systemfont: Inter, BlinkMacSystemFont, Arial, sans-serif;
+}
+
+
+/* GENERAL CSS SETTINGS */
+
+::placeholder {
+    color: #666;
+}
+
+::selection {
+    background-color: var(--accent);
+    color: #fff;
+}
+
+input,
+textarea {
+    outline: none;
+}
+
+input:focus:required:invalid,
+textarea:focus:required:invalid {
+    border-color: red;
+}
+
+input:required:valid,
+textarea:required:valid {
+    border-color: green;
+}
+
+body {
+    font-family: var(--userfont);
+    font-size: var(--fontsize);
+    line-height: var(--lineheight);
+    color: var(--textcolor);
+    min-width: 320px;
+    position: relative;
+    overflow-x: hidden;
+}
+
+.button {
+    border-radius: 16px;
+    padding: 16px 32px;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #27256B;
+    display: inline-block;
+    border: 1px solid #D9E0FA;
+    &:hover {
+        border-color: transparent;
+        box-shadow: 0 0px 0 2px darken($color: #27256B, $amount: 20);
+    }
+    &.btn-sm {
+        padding: 8px 24px;
+    }
+    &--orange {
+        background-color: #f8a037;
+        color: #fff;
+        box-shadow: 0 4px 0 #dc700d;
+        border-color: transparent;
+        &:hover {
+            color: #fff;
+            box-shadow: 0 4px 0 #f8a037;
+            background-color: darken($color: #f8a037, $amount: 10);
+        }
+        &:focus {
+            box-shadow: 0 4px 0 #dc700d;
+        }
+    }
+}
+
+.form__input {
+    height: 56px;
+    border-color: #d9e0fa;
+    border-radius: 8px;
+}
+
+.form__label {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #27256B;
+    margin-bottom: 8px;
+}
+
+.input_suptitle {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #7E808C;
+    & b {
+        color: #F8A037;
+        font-weight: 600;
+    }
+}
+
+.section__title {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 48px;
+    color: #27256b;
+    margin-bottom: 48px;
+    display: inline-block;
+    text-transform: uppercase;
+    & span {
+        color: #5660D3;
+    }
+    &.bold {
+        font-weight: 700;
+    }
+}
+
+.card {
+    border: 1px solid #D9E0FA;
+    border-radius: 16px;
+    padding: 20px 24px;
+    &__body {}
+}
+
+@import "./_intro";
+@import "./_header";
+@import "./_working";
+@import "./_feature";
+@import "./_tests";
+@import "./_about";
+@import "./_purpose";
+@import "./_apply";
+@import "./_faqs";
+@import "./_footer";
+@import "./_sidebar";
+@import "./_login";
+@import "./_content";

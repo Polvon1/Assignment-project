@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "name_uz": "QORAQALPOG'ISTON RESPUBLIKASI",
+    "name_ru": "РЕСПУБЛИКА КАРАКАЛПАКСТАН",
+    "name_en": "REPUBLIC OF KARAKALPAKSTAN",
+    "name_cyr": "ҚОРАҚАЛПОҒИСТОН РEСПУБЛИКАСИ",
+    "shared_id": 23
+  },
+  {
+    "id": 2,
+    "name_uz": "ANDIJON VILOYATI",
+    "name_ru": "АНДИЖАНСКАЯ ОБЛАСТЬ",
+    "name_en": "ANDIJAN REGION",
+    "name_cyr": "АНДИЖОН ВИЛОЯТИ",
+    "shared_id": 17
+  },
+  {
+    "id": 3,
+    "name_uz": "BUXORO VILOYATI",
+    "name_ru": "БУХАРСКАЯ ОБЛАСТЬ",
+    "name_en": "BUKHARA REGION",
+    "name_cyr": "БУХОРО ВИЛОЯТИ",
+    "shared_id": 20
+  },
+  {
+    "id": 4,
+    "name_uz": "JIZZAX VILOYATI",
+    "name_ru": "ДЖИЗАКСКАЯ ОБЛАСТЬ",
+    "name_en": "JIZZAKH REGION",
+    "name_cyr": "ЖИЗЗАХ ВИЛОЯТИ",
+    "shared_id": 13
+  },
+  {
+    "id": 5,
+    "name_uz": "NAVOIY VILOYATI",
+    "name_ru": "НАВОИЙСКАЯ ОБЛАСТЬ",
+    "name_en": "NAVOI REGION",
+    "name_cyr": "НАВОИЙ ВИЛОЯТИ",
+    "shared_id": 21
+  },
+  {
+    "id": 6,
+    "name_uz": "NAMANGAN VILOYATI",
+    "name_ru": "НАМАНГАНСКАЯ ОБЛАСТЬ",
+    "name_en": "NAMANGAN REGION",
+    "name_cyr": "НАМАНГАН ВИЛОЯТИ",
+    "shared_id": 16
+  },
+  {
+    "id": 7,
+    "name_uz": "SAMARQAND VILOYATI",
+    "name_ru": "САМАРКАНДСКАЯ ОБЛАСТЬ",
+    "name_en": "SAMARKAND REGION",
+    "name_cyr": "САМАРҚАНД ВИЛОЯТИ",
+    "shared_id": 14
+  },
+  {
+    "id": 8,
+    "name_uz": "SIRDARYO VILOYATI",
+    "name_ru": "СЫРДАРЬИНСКАЯ ОБЛАСТЬ",
+    "name_en": "SIRDARYA REGION",
+    "name_cyr": "СИРДАРЁ ВИЛОЯТИ",
+    "shared_id": 12
+  },
+  {
+    "id": 9,
+    "name_uz": "SURXONDARYO VILOYATI",
+    "name_ru": "СУРХАНДАРЬИНСКАЯ ОБЛАСТЬ",
+    "name_en": "SURKHANDARYA REGION",
+    "name_cyr": "СУРХОНДАРЁ ВИЛОЯТИ",
+    "shared_id": 19
+  },
+  {
+    "id": 10,
+    "name_uz": "TOSHKENT VILOYATI",
+    "name_ru": "ТАШКЕНТСКАЯ ОБЛАСТЬ",
+    "name_en": "TASHKENT REGION",
+    "name_cyr": "ТОШКEНТ ВИЛОЯТИ",
+    "shared_id": 11
+  },
+  {
+    "id": 11,
+    "name_uz": "FARG'ONA VILOYATI",
+    "name_ru": "ФЕРГАНСКАЯ ОБЛАСТЬ",
+    "name_en": "FERGANA REGION",
+    "name_cyr": "ФАРҒОНА ВИЛОЯТИ",
+    "shared_id": 15
+  },
+  {
+    "id": 12,
+    "name_uz": "XORAZM VILOYATI",
+    "name_ru": "ХОРЕЗМСКАЯ ОБЛАСТЬ",
+    "name_en": "KHOREZM REGION",
+    "name_cyr": "ХОРАЗМ ВИЛОЯТИ",
+    "shared_id": 22
+  },
+  {
+    "id": 13,
+    "name_uz": "QASHQADARYO VILOYATI",
+    "name_ru": "КАШКАДАРЬИНСКАЯ ОБЛАСТЬ",
+    "name_en": "KASHKADARYA REGION",
+    "name_cyr": "ҚАШҚАДАРЁ ВИЛОЯТИ",
+    "shared_id": 18
+  },
+  {
+    "id": 14,
+    "name_uz": "TOSHKENT SHAHRI",
+    "name_ru": "ГОРОД ТАШКЕНТ",
+    "name_en": "TASHKENT CITY",
+    "name_cyr": "ТОШКEНТ ШАҲРИ",
+    "shared_id": 10
+  }
+]

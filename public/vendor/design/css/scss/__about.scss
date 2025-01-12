@@ -1,0 +1,48 @@
+.about {
+    padding-bottom: 72px;
+    &__image {
+        height: 680px;
+        border-radius: 24px;
+        & img {
+            width: 100%;
+        }
+    }
+    &__content {
+        padding-top: 20px;
+        padding-right: 150px;
+        padding-bottom: 20px;
+        position: relative;
+        &__list {
+            position: absolute;
+            top: 0;
+            right: 0;
+            width: 964px;
+            background-color: #fff;
+            padding: 32px 32px 0 32px;
+            box-shadow: 0px 0px 2px rgba(145, 158, 171, 0.24), 0px 16px 32px -4px rgba(145, 158, 171, 0.24);
+            border-radius: 16px;
+            & .working__card_icon {
+                margin-bottom: 24px;
+            }
+            & .working__card_title {
+                font-size: 16px;
+                line-height: 20px;
+                padding-right: 100px;
+            }
+            & .working__card_desc {
+                line-height: 18px;
+            }
+        }
+    }
+    &__text {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        color: #7e808c;
+        margin-bottom: 32px;
+    }
+    & .section__title {
+        margin-bottom: 24px;
+    }
+}

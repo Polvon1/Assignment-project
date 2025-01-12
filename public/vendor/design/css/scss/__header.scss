@@ -1,0 +1,135 @@
+.header {
+    &__container {
+        display: flex;
+        width: 100%;
+        flex-direction: row;
+        justify-content: space-between;
+        padding-top: 24px;
+        padding-bottom: 20px;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.24);
+    }
+    &.fixed {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+    }
+    & .navbar {
+        &__link {
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 24px;
+            color: #ffffff;
+            &:focus {
+                box-shadow: none;
+            }
+        }
+    }
+    &.light {
+        & .nav-link {
+            font-size: 14px;
+            line-height: 24px;
+            color: #000000;
+        }
+        & .navbar__link {
+            color: #000000;
+        }
+        & .sandwich__line {
+            background-color: #000
+        }
+    }
+}
+
+.navbar__mobile__menu {
+    position: fixed;
+    top: 95px;
+    left: 0;
+    right: 0;
+    height: calc(100vh - 95px);
+    display: block;
+    background-color: #fff;
+    z-index: 10;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-image: url('/images/mobile__menu_bg.png');
+    background-repeat: no-repeat;
+    background-position: 30% 120%;
+    transform: translateX(-100%);
+    transition: all 0.3s ease;
+    &.show {
+        transform: translateX(0);
+    }
+    & .nav {
+        flex-direction: column;
+        padding-top: 25px;
+        &-item {
+            &:last-child .button {
+                margin-top: 40px;
+                margin-left: 16px;
+            }
+        }
+        &-link {
+            color: #27256b;
+            &:hover {
+                background-color: #ebf3f8;
+            }
+        }
+    }
+    &__footer {
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 18px;
+        color: #000000;
+        padding: 32px;
+        text-align: center;
+    }
+}
+
+.sandwich {
+    cursor: pointer;
+    height: 20px;
+    position: relative;
+    width: 32px;
+    &.is {
+        &-active {
+            .sandwich__line {
+                &--top {
+                    top: 10px;
+                    transform: rotate(45deg);
+                }
+                &--middle {
+                    opacity: 0;
+                }
+                &--bottom {
+                    top: 10px;
+                    transform: rotate(-45deg);
+                }
+            }
+        }
+    }
+    &__line {
+        background-color: #fff;
+        display: block;
+        height: 2px;
+        left: 0;
+        position: absolute;
+        transition: all linear 0.4s;
+        width: 100%;
+        &--top {
+            top: 0;
+        }
+        &--middle {
+            top: 9px;
+        }
+        &--bottom {
+            top: 18px;
+        }
+    }
+}
+
+#mobile_menu_btn {
+    &:focus {
+        box-shadow: none;
+    }
+}

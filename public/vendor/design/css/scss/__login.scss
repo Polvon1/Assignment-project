@@ -1,0 +1,51 @@
+.login {
+    
+    &__page {
+        height: inherit;
+        background: radial-gradient(69.7% 105.51% at 30.3% 42.3%, #727adf 0%, #5660d3 100%);
+        display: flex;
+        overflow: hidden;
+        position: relative;
+        &::before {
+            content: "";
+            display: block;
+            position: absolute;
+            top: 0;
+            left: -300px;
+            background: url("../images/intro__el--left.svg") no-repeat 50% 50%;
+            width: 726px;
+            height: 630px;
+            transform: translateY(-50%);
+        }
+
+        &::after {
+            content: "";
+            display: block;
+            position: absolute;
+            bottom: -50%;
+            right: -10%;
+            background: url("../images/intro__el--right.svg") no-repeat 50% 50%;
+            width: 633px;
+            height: 578px;
+            transform: translateY(-50%);
+        }
+
+        & .btn-link {
+            font-family: 'SF Compact Display', sans-serif;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 24px;
+            color: #7E808C;
+            padding: 0;
+            display: block;
+            text-align: right;
+        }
+        & .logo {
+            position: relative;
+            z-index: 2;
+            margin-top: 100px;
+            margin-bottom: 64px;
+        }
+    }
+
+}

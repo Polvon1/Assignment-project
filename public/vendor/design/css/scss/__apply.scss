@@ -1,0 +1,47 @@
+.apply {
+    padding: 72px 0;
+    position: relative;
+    &__content {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        width: 996px;
+        height: 390px;
+        margin: auto;
+        background: radial-gradient( 100% 652.21% at 0% 0%, #618ae7 14.07%, #5757df 100%);
+        border-radius: 48px;
+        display: flex;
+        padding: 56px;
+        // overflow: hidden;
+        & .left,
+        .right {
+            flex: 0 0 50%;
+        }
+        & .right {
+            position: relative;
+            &::before {
+                content: '';
+                display: block;
+                width: 530px;
+                height: 530px;
+                border-radius: 50%;
+                background: rgba(255, 255, 255, 0.16);
+            }
+            & img {
+                position: absolute;
+                bottom: -56px;
+                right: 0;
+            }
+        }
+    }
+    &__title {
+        font-weight: 600;
+        font-size: 48px;
+        line-height: 58px;
+        color: #ffffff;
+        margin-bottom: 32px;
+        position: relative;
+        z-index: 1;
+    }
+}

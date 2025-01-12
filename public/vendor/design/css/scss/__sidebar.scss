@@ -1,0 +1,68 @@
+.sidebar {
+    border: 1px solid #D9E0FA;
+    border-radius: 7px;
+    margin-bottom: 25px;
+    &__header {
+        padding: 24px 23px;
+        display: flex;
+        background: #666FDA;
+        border-radius: 7px 7px 0px 0px;
+        &_icon {
+            margin-right: 16px;
+        }
+        &_text {
+            font-weight: 600;
+            font-size: 18px;
+            line-height: 24px;
+            color: #FFFFFF;
+            padding-right: 75px;
+        }
+    }
+    &__nav {
+        list-style: none;
+        padding: 0;
+        &_head {
+            padding: 12px 24px;
+            font-weight: 600;
+            font-size: 18px;
+            line-height: 24px;
+            color: #27256B;
+            margin-top: 12px;
+        }
+        &_link {
+            display: block;
+            padding: 12px 24px;
+            font-size: 16px;
+            line-height: 24px;
+            color: #2D2D2D;
+            text-decoration: none;
+            &:hover {
+                background: #EBECFA;
+                border-radius: 4px;
+            }
+        }
+    }
+    &__info {
+        padding-left: 32px;
+        border-left: 1px solid #D9E0FA;
+        height: calc(100% - 100px);
+        &__title {
+            font-weight: 600;
+            font-size: 24px;
+            line-height: 32px;
+            color: #27256B;
+            margin-bottom: 16px;
+            &:first-of-type {
+                margin-top: 32px;
+            }
+        }
+        &__content {
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 24px;
+            color: #7E808C;
+            margin-bottom: 32px;
+        }
+    }
+}

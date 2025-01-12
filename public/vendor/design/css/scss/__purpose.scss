@@ -1,0 +1,76 @@
+.purpose {
+    padding-top: 64px;
+    padding-bottom: 365px;
+    background-color: #f5f8fa;
+    position: relative;
+    overflow: hidden;
+    &__container {
+        &::before {
+            content: "";
+            display: block;
+            width: 730px;
+            height: 633px;
+            position: absolute;
+            bottom: 0;
+            left: -370px;
+            background: url("../images/purpose__el--left.svg") no-repeat 0% 0% / cover;
+        }
+        &::after {
+            content: "";
+            display: block;
+            width: 633px;
+            height: 633px;
+            position: absolute;
+            top: 100px;
+            right: -250px;
+            background: url("../images/purpose__el--right.svg") no-repeat 0% 0% / cover;
+        }
+    }
+    &__card {
+        position: relative;
+        &::before {
+            content: "";
+            display: block;
+            position: absolute;
+            top: 0;
+            left: 0;
+            background-image: url("data:image/svg+xml,%3Csvg width='120' height='110' viewBox='0 0 120 110' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M112.005 12.8154C119.134 21.5809 119.991 34.2631 115.339 47.8503C110.693 61.4217 100.589 75.7375 86.0896 87.5283C71.5906 99.3192 55.5156 106.293 41.282 108.075C27.0318 109.859 14.7907 106.434 7.66247 97.6689C0.534242 88.9034 -0.322884 76.2213 4.32889 62.634C8.97524 49.0627 19.0792 34.7468 33.5782 22.956C48.0771 11.1652 64.1522 4.19181 78.3858 2.40968C92.636 0.62548 104.877 4.04999 112.005 12.8154Z' stroke='%23D7DAFF' stroke-width='2'/%3E%3C/svg%3E%0A");
+            background-repeat: no-repeat;
+            width: 136px;
+            height: 110px;
+        }
+        &_number {
+            font-weight: 600;
+            font-size: 64px;
+            line-height: 77px;
+            text-transform: uppercase;
+            background: linear-gradient( 180deg, #4f57b3 -11.69%, #8f98ff 52.61%, #4f57b2 113.64%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            text-fill-color: transpar;
+            margin-bottom: 8px;
+            position: relative;
+            z-index: 2;
+        }
+        &_title {
+            font-weight: 600;
+            font-size: 18px;
+            line-height: 24px;
+            color: #27256b;
+            padding-right: 100px;
+            margin-bottom: 8px;
+            position: relative;
+            z-index: 2;
+        }
+        &_desc {
+            font-weight: 400;
+            font-size: 14px;
+            line-height: 17px;
+            color: #7e808c;
+            padding-right: 40px;
+            position: relative;
+            z-index: 2;
+        }
+    }
+}
