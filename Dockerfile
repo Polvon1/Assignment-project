@@ -24,7 +24,7 @@ COPY --from=composer:latest /usr/bin/composer /usr/local/bin/composer
 
 COPY . .
 
-RUN composer install --no-scripts --no-dev && \
+RUN composer install --no-scripts && \
     chown -R www-data:www-data /var/www
 
 EXPOSE 9000
