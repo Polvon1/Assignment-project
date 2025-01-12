@@ -22,7 +22,7 @@ RUN docker-php-ext-configure gd --with-freetype --with-jpeg && \
 
 COPY --from=composer:latest /usr/bin/composer /usr/local/bin/composer
 
-COPY . /var/www/nodir
+COPY . .
 
 RUN composer install --no-scripts --no-dev && \
     chown -R www-data:www-data /var/www
